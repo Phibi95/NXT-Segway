@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/parzel/dev/SS15_NXT_Gruppe2/NXT_Android/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="/home/parzel/dev/SS15_NXT_Gruppe2/NXT_Android/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-d921d9494a2a078b168822d08259078233eed0ee.jar" />
+    </item>
+    <item
+        jar="/home/parzel/dev/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="/home/parzel/dev/SS15_NXT_Gruppe2/NXT_Android/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.0-0f55224a652c6b1a6165fe925eadac9a94f84937.jar" />
+    </item>
+    <item
+        jar="/home/parzel/dev/SS15_NXT_Gruppe2/NXT_Android/app/src/main/java/libs/pccomm.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="373ed05d2ec537429cc3f930d450732d8a854055">
+        <dex dex="/home/parzel/dev/SS15_NXT_Gruppe2/NXT_Android/app/build/intermediates/pre-dexed/debug/pccomm-d52c8e5db7c34fdde1bcee086740373ff22b06fc.jar" />
+    </item>
+    <item
+        jar="/home/parzel/dev/SS15_NXT_Gruppe2/NXT_Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="/home/parzel/dev/SS15_NXT_Gruppe2/NXT_Android/app/build/intermediates/pre-dexed/debug/classes-3e429fa077108ffaf1081694d1093d3c7e18278f.jar" />
+    </item>
+    <item
+        jar="/home/parzel/dev/SS15_NXT_Gruppe2/NXT_Android/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="/home/parzel/dev/SS15_NXT_Gruppe2/NXT_Android/app/build/intermediates/pre-dexed/debug/classes-dc5d2535538105b8d7d793924593268576177b4c.jar" />
+    </item>
+
+</items>

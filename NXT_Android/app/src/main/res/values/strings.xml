@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">nxtWay remote</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="graphs">
+        <item>Offset</item>
+        <item>Angle</item>
+        <item>Angular Velocity</item>
+        <item>Motorspeed</item>
+        <item>Motorpos</item>
+    </string-array>
+
+</resources>
